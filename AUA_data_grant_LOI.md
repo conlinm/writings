@@ -24,25 +24,8 @@ b. Impact: Why is this an important problem in urology, and how will your resear
 c. Approach: What overall strategy and methodology will you use to accomplish your aims? What data sets do you plan to use?
 d. Funding requested: What do you estimate it will cost to carry out the project (must not exceed $25,000)?
 
-Principal investigator:
-Michael Conlin
-Professor, Urology
-Oregon Health & Science University, VA Portland Health Care System
-Portland, Oregon
-U.S.A.
-M.D., M.C.R.
-AUA ID: 00322289
-Mobile phone: 503-805-2026
-Fax: 503-346-1501
-Email: conlinm@ohsu.edu
 
-We propose a study to determine the effect of extent of lymph node dissection at the time of radical prostatectomy on the detection of lymph node involvement with prostate cancer.
-We wish to investigate the effect of detection of lymph node involvement with prostate cancer in men being treated for prostate cancer. Specifically, we will determine the effect of the extent of lymph node dissection on our ability to detect lymph node involvement. How many men with lymph node involvement are missed and what are the survival implications of this missed opportunity.
-Aims:
-1.  Determine the differences in the extent of lymph node dissection in men undergoing radical prostatectomy in the United States.
-2. Determine factors that may influence extent of lymph node dissection, such as preoperative prostate cancer stage and grade, patient demographics, and comorbidities.
-3. Determine the effects of extent of pelvic lymph node dissection on overall and cancer-specific survival
-4. Compare these data across NCDB and SEER data
+
 
 
 Note: discussion with Kopp
@@ -59,3 +42,32 @@ Data quality of EMR abstraction (AQUA) vs. data registry (NCDB)
 - missing data in general
 - incorrect data
 - data integrity
+
+--------------------------------------------------------------------
+
+1. Principal investigator:
+a. Michael Conlin
+b. Professor, Urology
+c. Oregon Health & Science University, VA Portland Health Care System
+d. Portland
+e. Oregon
+f. U.S.A.
+g. M.D., M.C.R.
+h. AUA ID: 00322289
+i. Mobile phone: 503-805-2026 Fax: 503-346-1501
+j. Email: conlinm@ohsu.edu
+
+2. We are interested in studying measures of quality for radical prostatectomy, including extent of lymph node dissection, rates of margin positivity, and appropriate utilization of adjuvant therapies. We have experience measuring these factors using data from the National Cancer Database (NCDB). We hope to extend our interest to include data from the AQUA registry. This will allow us to determine factors that might influence practice pattern variations in these measures. We believe the AQUA database may represent a unique dataset, both because the participants involved are likely a more motivated group of surgeons, and the novel data extraction technique used to capture data. This will permit a comparison of a traditional "curated" database such as NCDB, with a more modern extracted dataset, using modern technologies such as natural language processing. We believe the later may represent an improved set of data, with less missing data and fewer data errors. The different methods of data extraction and entry, when done in computerize fashion rather than utilizing a human based data extraction and keyboard entry, has potential advantages. The Aqua data registry is one of the first of it's kind of data sources, in what is sure to be a growing field of electronic medical record based data computerized data extraction. While these techniques have been validated, a direct comparison of datasets and specific prostate cancer treatment measure and data quality is our goal.
+
+a. Aims:
+1. Determine the differences in specific quality measures (extent of lymph node dissection, rates of positive margins, and appropriate use of adjuvant therapies) for men undergoing radical prostatectomy and factors that effect these measures.
+2. Examine possible clinical predictors of these quality measures such as preoperative prostate cancer stage and grade, patient demographics, and comorbidities.
+3. Determine the effects of these quality measures on overall and cancer-specific survival.
+4. Determine practice pattern variations in these measures and potential predictors of inconsistent, poor, and exceptional outcomes.
+5. Compare data quality between NCDB and AQUA with regard to these data needing to determine these quality measures, including missing data, and false or incorrect data.
+
+b. Impact:
+
+c. Approach:
+
+d. Funding Requested:
