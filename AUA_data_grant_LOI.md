@@ -46,16 +46,16 @@ Data quality of EMR abstraction (AQUA) vs. data registry (NCDB)
 --------------------------------------------------------------------
 
 1. Principal investigator:
-a. Michael Conlin
-b. Professor, Urology
-c. Oregon Health & Science University, VA Portland Health Care System
-d. Portland
-e. Oregon
-f. U.S.A.
-g. M.D., M.C.R.
-h. AUA ID: 00322289
-i. Mobile phone: 503-805-2026 Fax: 503-346-1501
-j. Email: conlinm@ohsu.edu
+a. Michael Conlin  
+b. Professor, Urology  
+c. Oregon Health & Science University, VA Portland Health Care System  
+d. Portland  
+e. Oregon  
+f. U.S.A.  
+g. M.D., M.C.R.  
+h. AUA ID: 00322289  
+i. Mobile phone: 503-805-2026 Fax: 503-346-1501  
+j. Email: conlinm@ohsu.edu  
 
 2. Title: Measures of Surgical Quality of Radical Prostatectomy Across Three Databases: Practice Patterns, Outcomes, and Comparison of Data Collection Methodologies.
 
